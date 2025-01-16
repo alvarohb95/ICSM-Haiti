@@ -1,0 +1,1 @@
+rsconnect deploy shiny --verbose "C:\Users\alvaro.blanco\ACTED\IMPACT HTI - General\04_Cycles_de_Recherche\HTI2404 ICSM\06_Reporting\04_Dashboard\ICSM SEPT 2024 dashboard/dashboard" --name alvarohb95 --title "ICSM SEPT 2024"
