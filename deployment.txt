@@ -1,0 +1,3 @@
+#Deployment in Shiny
+
+rsconnect deploy shiny --verbose "C:\Users\...\04_Dashboard\ICSM SEPT 2024 dashboard/dashboard" --name alvarohb95 --title "ICSM SEPT 2024"
